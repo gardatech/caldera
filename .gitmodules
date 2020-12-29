@@ -3,7 +3,7 @@
 	url = https://github.com/mitre/sandcat.git
 [submodule "plugins/stockpile"]
 	path = plugins/stockpile
-	url = https://github.com/mitre/stockpile.git
+	url = https://github.com/gardatech/stockpile.git
 [submodule "plugins/ssl"]
 	path = plugins/ssl
 	url = https://github.com/mitre/ssl.git
@@ -19,9 +19,6 @@
 [submodule "plugins/access"]
 	path = plugins/access
 	url = https://github.com/mitre/access.git
-[submodule "plugins/atomic"]
-	path = plugins/atomic
-	url = https://github.com/mitre/atomic.git
 [submodule "plugins/response"]
 	path = plugins/response
 	url = https://github.com/mitre/response.git
